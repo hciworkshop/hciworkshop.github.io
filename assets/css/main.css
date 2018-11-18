@@ -2008,7 +2008,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: cadetblue url("images/shadow.png");
+			background: #002255 url("images/shadow.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
