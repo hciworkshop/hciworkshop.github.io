@@ -44,6 +44,7 @@ ul, ol {
 }
 
 .row-m-list > ul li, ol li {
+  width: 50em;
   color: black;
   border-left: solid 8px darkslategrey;/*左側の線*/
   background: whitesmoke;/*背景色*/
